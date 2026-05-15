@@ -49,7 +49,14 @@ Building ML projects and learning AI step by step 🚀
 </p>
 
 ---
+# 🌱 Currently Learning
 
+- Machine Learning Fundamentals
+- Scikit-learn
+- Data Preprocessing
+- Feature Engineering
+- Classical ML Algorithms
+- Deep Learning Basics
 # 📂 Featured Project
 
 ## Customer Churn Prediction
