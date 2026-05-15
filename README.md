@@ -9,7 +9,9 @@ Building ML projects and learning AI step by step 🚀
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taqi-ul-hassan&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 <p align="center">
   <a href="https://github.com/taqi-ul-hassan">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
