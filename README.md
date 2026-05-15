@@ -1,7 +1,11 @@
-<h1 align="center">Taqi Ul Hassan</h1>
+<h1 align="center">Hi 👋, I'm Taqi Ul Hassan</h1>
+
+<h3 align="center">
+Computer Science Student • Machine Learning Learner • Python Developer
+</h3>
 
 <p align="center">
-  Computer Science Student • Machine Learning • AI Learning Journey
+Building ML projects and learning AI step by step 🚀
 </p>
 
 ---
