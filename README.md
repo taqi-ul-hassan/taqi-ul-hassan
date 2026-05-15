@@ -11,19 +11,15 @@ Building ML projects and learning AI step by step 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taqi-ul-hassan&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
-<p align="center">
   <a href="https://github.com/taqi-ul-hassan">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/taqiulhassan/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://kaggle.com">
+  <a href="[https://kaggle.com](https://www.kaggle.com/mrtaqiulhassan)">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
