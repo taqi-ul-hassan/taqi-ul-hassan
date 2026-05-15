@@ -1,97 +1,97 @@
-# Hi there 👋
+<h1 align="center">Taqi Ul Hassan</h1>
 
-I'm a Computer Science student passionate about Machine Learning, Artificial Intelligence, and Python development.
-
-Currently focused on:
-- Machine Learning Fundamentals
-- Data Science
-- Classical ML Algorithms
-- Scikit-learn
-- Building practical ML projects
+<p align="center">
+  Computer Science Student • Machine Learning • AI Learning Journey
+</p>
 
 ---
 
-# 🚀 Current Learning Journey
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taqi-ul-hassan&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
-I'm actively learning and building projects in:
-- Machine Learning
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- Supervised Learning Algorithms
-- Deep Learning Foundations
+<p align="center">
+  <a href="https://github.com/taqi-ul-hassan">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-I believe in learning by building real projects and understanding concepts deeply instead of only following tutorials.
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://kaggle.com">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 Computer Science Student
+- 🧠 Currently learning Machine Learning & AI
+- 🐍 Python & Scikit-learn learner
+- 📚 Building ML projects step by step
+- 🌱 Learning in public
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages & Tools
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Git
-- GitHub
-- Jupyter Notebook
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 📂 Featured Project
 
 ## Customer Churn Prediction
-Machine learning project to predict whether customers will leave a company or stay.
 
-Concepts used:
-- Data preprocessing
-- Feature encoding
-- Feature scaling
+Machine Learning project using:
 - Logistic Regression
 - KNN
 - SVM
-- Decision Trees
+- Decision Tree
 - Random Forest
 
----
-
-## More Projects Coming Soon...
-Currently building and improving my machine learning portfolio step by step.
+Concepts applied:
+- preprocessing
+- feature scaling
+- encoding
+- evaluation metrics
+- overfitting analysis
 
 ---
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 Goals
 
 - Build strong ML foundations
-- Complete multiple ML projects
+- Create real-world ML projects
 - Learn Deep Learning
 - Participate in hackathons
 - Contribute to open source
-- Become confident in AI development
-
----
-
-# 📚 Currently Exploring
-
-- Decision Trees & Random Forests
-- Ensemble Learning
-- Feature Engineering
-- Model Evaluation Techniques
-- Deep Learning Basics
 
 ---
 
 # 🌱 Philosophy
 
-Learning in public.
-Building consistently.
-Improving one step at a time.
+Consistency > Motivation
+
+Learn → Build → Improve → Repeat
