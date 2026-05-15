@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**taqi-ul-hassan/taqi-ul-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about Machine Learning, Artificial Intelligence, and Python development.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Machine Learning Fundamentals
+- Data Science
+- Classical ML Algorithms
+- Scikit-learn
+- Building practical ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Current Learning Journey
+
+I'm actively learning and building projects in:
+- Machine Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Supervised Learning Algorithms
+- Deep Learning Foundations
+
+I believe in learning by building real projects and understanding concepts deeply instead of only following tutorials.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages & Tools
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+# 📂 Featured Projects
+
+## Customer Churn Prediction
+Machine learning project to predict whether customers will leave a company or stay.
+
+Concepts used:
+- Data preprocessing
+- Feature encoding
+- Feature scaling
+- Logistic Regression
+- KNN
+- SVM
+- Decision Trees
+- Random Forest
+
+---
+
+## More Projects Coming Soon...
+Currently building and improving my machine learning portfolio step by step.
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact)
+
+---
+
+# 🎯 Goals for 2026
+
+- Build strong ML foundations
+- Complete multiple ML projects
+- Learn Deep Learning
+- Participate in hackathons
+- Contribute to open source
+- Become confident in AI development
+
+---
+
+# 📚 Currently Exploring
+
+- Decision Trees & Random Forests
+- Ensemble Learning
+- Feature Engineering
+- Model Evaluation Techniques
+- Deep Learning Basics
+
+---
+
+# 🌱 Philosophy
+
+Learning in public.
+Building consistently.
+Improving one step at a time.
