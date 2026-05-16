@@ -33,7 +33,7 @@ Building ML projects and learning AI step by step 🚀
 - 🎓 Computer Science Student
 - 🧠 Currently learning Machine Learning & AI
 - 🐍 Python & Scikit-learn learner
-- 📚 Building ML projects step by step
+- 📚 Building ML projects
 - 🌱 Learning in public
 
 ---
