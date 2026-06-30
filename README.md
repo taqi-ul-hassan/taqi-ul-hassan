@@ -9,20 +9,26 @@ Building ML projects and learning AI step by step 🚀
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taqi-ul-hassan&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
+
 <p align="center">
   <a href="https://github.com/taqi-ul-hassan">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/taqiulhassan/)">
+  <a href="https://www.linkedin.com/in/taqiulhassan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="[https://kaggle.com](https://www.kaggle.com/mrtaqiulhassan)">
+  <a href="https://www.kaggle.com/mrtaqiulhassan">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/taqi-ul-hassan/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
@@ -31,10 +37,11 @@ Building ML projects and learning AI step by step 🚀
 # 🚀 About Me
 
 - 🎓 Computer Science Student
-- 🧠 Currently learning Machine Learning & AI
-- 🐍 Python & Scikit-learn learner
-- 📚 Building ML projects
-- 🌱 Learning in public
+- 🤖 Currently learning Machine Learning & Artificial Intelligence
+- 🐍 Python Developer
+- 📊 Exploring Data Science & Deep Learning
+- 💻 Solving Data Structures & Algorithms on LeetCode
+- 🌱 Learning in public and building real-world projects
 
 ---
 
@@ -45,35 +52,45 @@ Building ML projects and learning AI step by step 🚀
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
+
 # 🌱 Currently Learning
 
 - Machine Learning Fundamentals
+- Data Structures & Algorithms
 - Scikit-learn
 - Data Preprocessing
 - Feature Engineering
-- Classical ML Algorithms
 - Deep Learning Basics
+- Model Deployment
+
+---
+
 # 📂 Featured Project
 
 ## Customer Churn Prediction
 
 Machine Learning project using:
+
 - Logistic Regression
-- KNN
-- SVM
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
 - Decision Tree
 - Random Forest
 
-Concepts applied:
-- preprocessing
-- feature scaling
-- encoding
-- evaluation metrics
-- overfitting analysis
+### Concepts Applied
+
+- Data Preprocessing
+- Feature Scaling
+- Encoding
+- Model Evaluation
+- Hyperparameter Tuning
+- Overfitting Analysis
 
 ---
 
@@ -84,27 +101,61 @@ Concepts applied:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taqi-ul-hassan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🎯 Goals
+# 🧩 LeetCode Stats
 
-- Build strong ML foundations
-- Create real-world ML projects
-- Learn Deep Learning
-- Participate in hackathons
-- Contribute to open source
+<p align="center">
+  <a href="https://leetcode.com/u/taqi-ul-hassan/">
+    <img src="https://leetcard.jacoblin.cool/taqi-ul-hassan?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Solve 500+ LeetCode Problems
+- 🚀 Master Data Structures & Algorithms
+- 🤖 Become proficient in Machine Learning
+- 🧠 Learn Deep Learning
+- 🌐 Build Full-Stack AI Applications
+- 🏆 Participate in Hackathons
+- 📖 Contribute to Open Source
+- 💼 Land an AI/ML or Software Engineering Internship
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/taqi-ul-hassan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/taqiulhassan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.kaggle.com/mrtaqiulhassan">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/taqi-ul-hassan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
 # 🌱 Philosophy
 
-Consistency > Motivation
-
-Learn → Build → Improve → Repeat
+> **"Consistency beats motivation.**  
+> Learn → Build → Solve → Improve → Repeat." 🚀
