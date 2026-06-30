@@ -97,15 +97,15 @@ Machine Learning project using:
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=taqi-ul-hassan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=taqi-ul-hassan&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 # 🧩 LeetCode Stats
