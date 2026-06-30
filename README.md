@@ -100,13 +100,11 @@ Machine Learning project using:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=taqi-ul-hassan&theme=tokyonight" />
 </p>
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true&theme=tokyonight" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=taqi-ul-hassan&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact&theme=tokyonight" />
-</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=taqi-ul-hassan&layout=compact&theme=tokyonight&cache_seconds=1800
 
 ---
 
