@@ -128,7 +128,7 @@ Machine Learning pipeline built using
 
 # 🏆 2026 Goals
 
-- Solve **500+ LeetCode** problems
+- Solve **300+ LeetCode** problems
 - Master Data Structures & Algorithms
 - Build **10+ Machine Learning Projects**
 - Learn Deep Learning
@@ -138,16 +138,11 @@ Machine Learning pipeline built using
 
 ---
 
-# 📊 Weekly Development
+# 📈 Contribution Graph
 
-```text
-Machine Learning    ███████████░░░░   70%
-Python              █████████████░░   80%
-LeetCode            ██████████░░░░░   65%
-Git & GitHub        ████████████░░░   75%
-Deep Learning       ██████░░░░░░░░░   40%
-```
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taqi-ul-hassan&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 # 📫 Connect With Me
